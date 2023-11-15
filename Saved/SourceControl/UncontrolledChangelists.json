@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/MaterialExampleLevel.umap",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/FirstMaterial.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/SpanishPavement_basecolor.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/SpanishPavement_normal.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/SpanishPavement_Roughness.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/M_SpanishPavement.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/MI_SpanishPavement_Inst.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/M_MasterMaterial.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate_Metallic.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate_MetallicRoughnessOcclusion.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate_BaseColor.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate_Normal.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/WoodenCrate/WoodCrate_Roughness.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/LightingExamples/Maps/ArchVizRoom.umap",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/LightingExamples/Maps/ArchVizRoomBaked.umap",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/LightingExamples/Maps/ArchVizRoomBaked_BuiltData.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/Maps/MaterialExampleLevel.umap",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/Maps/LandcapeExample.umap",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/Maps/LandcapeExample_sharedassets/Dirt_LayerInfo.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/Maps/LandcapeExample_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/M_Landscape.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MyStuff/M_Landscape_Inst.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/MI_Common_Fern_rhDso_Billboard_2K.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/MI_Common_Fern_rhDso_2K.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/Foliage/FT_Common_Fern_rhDso_Var1_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/Foliage/FT_Common_Fern_rhDso_Var2_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/Foliage/FT_Common_Fern_rhDso_Var3_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/S_Common_Fern_rhDso_Var1_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/S_Common_Fern_rhDso_Var2_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Plants/Common_Fern_rhDso/S_Common_Fern_rhDso_Var3_lod1.uasset",
+				"C:/Users/Melbourne/Documents/Unreal Projects/FirstWorldBuilding/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Large_xisffer/S_Nordic_Forest_Cluster_Rock_Large_xisffer_lod3.uasset"
+			]
+		}
+	]
+}
